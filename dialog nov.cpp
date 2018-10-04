@@ -26,4 +26,5 @@ int main()
     char sboguvane [30]
     cout<<Bye<<razdqla<<"!"<<endl;
     return 0;
+    //Bravo!
 }
