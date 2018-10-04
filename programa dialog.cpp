@@ -10,4 +10,5 @@ int main()
 
     char godini [2]
     return 0;
+    //Mn. si qka
 }
